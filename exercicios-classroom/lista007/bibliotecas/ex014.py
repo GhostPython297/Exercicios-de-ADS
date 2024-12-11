@@ -1,3 +1,4 @@
+# b) Utilize a biblioteca random para gerar um número aleatório entre 1 e 100.
 import random
 
 def gerar_numero_aleatorio():
